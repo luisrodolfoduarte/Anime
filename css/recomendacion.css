@@ -1,0 +1,154 @@
+.imgkatekyo{
+    height: 300px;
+    width: 300px;
+    margin-left: 15px;
+}
+.contenedorimg{
+    width: 100%;
+    height: auto;
+    align-items: flex-start;
+}
+.conthijo{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+   align-items: center;
+   font-family: 'Coustard', serif;
+  
+}
+.imgakatsuki{
+    height: 450px;
+    width: 330px;
+    
+}
+.imghunter{
+    height: 450px;
+    width: auto;
+    margin-left: 15px;
+}
+
+.margen{
+    margin: 20px;
+    background-color: rgb(173, 173, 240);
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+.margen2{
+    width: 270px;
+    height: auto;
+    margin: 20px;
+    background-color: rgb(173, 173, 240);
+    border-radius: 10px;
+}
+.margen3{
+    width: 190px;
+    height: auto;
+    margin: 20px;
+    background-color: rgb(173, 173, 240);
+    border-radius: 10px;
+}
+.margen4{
+    width: 180px;
+    height: auto;
+    margin: 20px;
+    background-color: rgb(173, 173, 240);
+    border-radius: 10px;
+}
+.margen5{
+    width: 300px;
+    height: auto;
+    margin: 20px;
+    background-color: rgb(173, 173, 240);
+    border-radius: 10px;
+}
+.margen6{
+    width: 140px;
+    height: auto;
+    margin: 20px;
+    background-color: rgb(173, 173, 240);
+    border-radius: 10px;
+}
+.margen7{
+    width: 190px;
+    height: auto;
+    margin: 20px;
+    background-color: rgb(173, 173, 240);
+    border-radius: 10px;
+}
+.margen8{
+    width: 190px;
+    height: auto;
+    margin: 20px;
+    background-color: rgb(173, 173, 240);
+    border-radius: 10px;
+}
+.margen9{
+    width: 120px;
+    height: auto;
+    margin: 20px;
+    background-color: rgb(173, 173, 240);
+    border-radius: 10px;
+}
+.margen10{
+    width: 120px;
+    height: auto;
+    margin: 20px;
+    background-color: rgb(173, 173, 240);
+    border-radius: 10px;
+}
+.imgdanmachi{
+    height: 300px;
+    width: 350px;
+    margin-left: 15px;
+
+}
+.imgcodegeas{
+    height: 350px;
+    width: 380px;
+    margin-left: 15px;
+
+}
+.imgmonogatari{
+    height: 300px;
+    width: 300px;
+    margin-left: 15px;
+}
+.imgakkun{
+    height: 450px;
+    width: 300px;
+    margin-left: 15px;
+
+}
+.imgkaleido{
+    height: 450px;
+    width: 300px;
+    margin-left: 15px;
+}
+.imgchichana{
+    height: 400px;
+    width: 500px;
+    margin-left: 15px;
+
+}
+.azul{
+    color:#6643a5;
+}
+.contenedorvideo{
+    width: 600px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.cont5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

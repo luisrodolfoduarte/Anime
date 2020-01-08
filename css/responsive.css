@@ -1,0 +1,43 @@
+@media screen and (max-width:850px){
+    
+    .contIMG{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+       }
+}
+
+@media screen and (max-width:650px){
+
+    .bloque1{
+        width: 90%;
+    }
+
+    .navegacion{
+        width: 90%;
+    }
+
+    .contenedor2{
+        width: 90%;
+    }
+
+    .subCont1{
+        width: 90%;
+    }
+
+}
+
+@media screen and (max-width:550px){
+    .navegacion{
+        flex-direction: column;
+    }
+    
+    .menu{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+}

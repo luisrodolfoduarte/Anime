@@ -1,0 +1,80 @@
+
+.subCont1{
+  width: 70%;
+  height: auto;
+  align-items: center;
+}
+
+
+.contIMG{
+ width: 100%;
+ height: auto;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-evenly;
+}
+
+
+.img2{
+ height: 100%;
+ border-radius: 10px;
+}
+
+
+.img1{
+ width: 100%;
+ border-radius: 10px;
+}
+
+
+.contenedorimagen{
+ width: 250px;
+ height: 350px;
+}
+
+
+.cajaDeLasImagenes{
+ width: 250px;
+ height: 250px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+
+.cajaDeLosTrailers{
+ width: 600px;
+ height: auto;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background-color: black;
+ border: 3px solid black;
+ border-radius: 10px;   
+}
+
+.contTexto{
+ height: 100px;
+ width: auto;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.bordearTexto{
+ background-color: rgb(157, 179, 236);
+ border-radius: 10px;
+ text-decoration: none;
+ color: black;
+ padding: 7px;
+}
+.azul{
+  color:#6643a5;
+}
+.margen{
+  background-color: rgb(173, 173, 240);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  font-family: 'Coustard', serif;
+
+}

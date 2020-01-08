@@ -1,0 +1,3 @@
+separar los contenedores
+hacer el responsive de las demas paginas
+git

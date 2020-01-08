@@ -1,0 +1,93 @@
+
+
+ .subCont1{
+     width: 100%;/*cambio los costados se han mas cortos y entre mejor el contenedor img-p*/
+     height: auto;
+    
+     
+}
+.conthijo{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Coustard',serif;
+
+}
+
+.contenedorimg{
+    width: 100%;
+    height: auto;
+    /*align-items: flex-start;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contenedorvideo{
+    width: 600px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: black solid  0px 10px;
+    border-radius: 10px;
+    background-color: black;
+    margin-top: 10px;
+    
+}
+
+
+
+.imgblackcat{
+    height: 400px;
+    width: 350px;
+    border: solid  0px 50px; /*temporal*/
+    border-radius: 8px; /*temporal*/
+    
+
+}
+
+.imgkimetsunoyaiba{
+    height: 500px;
+    width: 500px;
+    /*margin-left:15px;*/
+    border: solid  0px 50px; /*temporal*/
+    border-radius: 8px; /*temporal*/
+
+}
+
+.imgshingeki{
+    height: 400px;
+    width: 500px;
+    /*margin-left:15px;*/
+    border: solid  0px 50px; /*temporal*/
+    border-radius: 8px; /*temporal*/
+
+}
+
+.margen{
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.cajaImg{
+    width: 350px;
+    height: 350px;
+    margin-left: 10px;
+}
+
+
+
+.img2{
+    height: 100%;
+    border-radius: 10px;
+}
+
+.colorFondo{
+    background-color: rgb(173, 173, 240);
+}
